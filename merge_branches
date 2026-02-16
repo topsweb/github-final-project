@@ -1,0 +1,41 @@
+Script started on 2026-02-16 18:19:08-05:00 [TERM="xterm-color" TTY="/dev/pts/0" COLUMNS="58" LINES="16"]
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ cd ..
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work[00m$ [Kcd github-final-prroject/
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ ls
+[?2004lCODE_OF_CONDUCT.md  README.md        simple-interest.sh
+CONTRIBUTING.md     forked-repo.txt
+LICENSE             merge_branches
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ nano r README.md 
+[?2004l[?2004h)07[?47h[1;16r[m[4l[m[?1h=[?1h=[m[m[H[2J[14;23H[7m[ Reading... ][m[14;21H[7m[ Read 10 lines ][m[H[7m  GNU nano 6.2             README.md                      [1;57H[m[14B[7m^G[m Help[7C[7m^O[m Write Out  [7m^W[m Where Is   [7m^K[m Cut[1B[7m^X[m Exit[7C[7m^R[m Read File  [7m^\[m Replace    [7m^U[m Paste[14A[33m[1m# github-final-project[2B# This is the README.md file for the **github-final-proje[m[m[7m>[5;1H[mA calculator that calculates simple interest given princi[7m>[6;1H[mInput:[7;4Hp, principal amount[8;4Ht, time period in years[9;4Hr, annual rate of interest[1BOutput[11;4Hsimple interest = p[32m*t*[m[mr[9A[1B[1B[1B[1B[1B[1B[1B[1B[1B[1B[1;38H[7m*[18C[m[12B[2;13r[13;1H
+[1;16r[13;1H[2;13r[13;1H
+[1;16r[13;1H[1B[7mSave modified buffer?                                     [15;1H Y[m Yes[K[1B[7m N[m No  [7C  [7m^C[m Cancel[K[14;23H[J[2B[16;1H[2J[?47l8[?1l>[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ [7mcd /home/project/work/mcino-Introduction-to-Git-and-Gi[m[7mt[m[7mtHub[m
+[A[Act[00m$ cd /home/project/work/mcino-Introduction-to-Git-and-GitHub
+[A
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mscript -q /home/project/work/github-fi[m[7mn[m[7mnal-project/merge_branches[m
+[7mgit checkout main[m
+[7mgit merge bug-fix-typo[m
+[7mexit[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ script -q /home/project/work/github-final-project/merge_branches
+git checkout main
+git merge bug-fix-typo
+exit
+[A
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-G
