@@ -1,21 +1,52 @@
-Script started on 2026-02-16 18:19:08-05:00 [TERM="xterm-color" TTY="/dev/pts/0" COLUMNS="58" LINES="16"]
+Script started on 2026-02-16 18:49:24-05:00 [TERM="xterm-color" TTY="/dev/pts/6" COLUMNS="58" LINES="16"]
 [?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
--to-Git-and-GitHub[00m$ cd ..
-[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work[00m$ [Kcd github-final-prroject/
-[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
-ct[00m$ ls
-[?2004lCODE_OF_CONDUCT.md  README.md        simple-interest.sh
-CONTRIBUTING.md     forked-repo.txt
-LICENSE             merge_branches
+-to-Git-and-GitHub[00m$ [7mgithub-final-project/merge_branches[m
+[A-to-Git-and-GitHub[00m$ github-final-project/merge_branches
+[A
+[?2004lbash: github-final-project/merge_branches: No such file or directory
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcd /home/project/work/github-final-pro[m[7mj[m[7mject[m
+[7mgit add merge_branches[m
+[7mgit commit -m "Add Task 2 merge proof"[m
+[7mgit push[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-project
+git add merge_branches
+git commit -m "Add Task 2 merge proof"
+git push
+[K[Agit push        [A[A[A[A[A]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction-
+
+
+
+[K[K[Agit commit -m "Add Task 2 merge proof"                                      [A[A[A[A]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction-
+
+
+[K[K[Agit add merge_branches                      [A[A[A]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction-
+
+[K[K[Aject    [A[A]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction-
+[K[A-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-pr[K
+[K[A-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-pr                                     [7mcd /home/project/work/github-final-pro[m[7mj[m[7mject[m
+[7mgit add merge_branches[m
+[7mgit commit -m "Add Task 2 merge proof"[m
+[7mgit push[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-project
+git add merge_branches
+git commit -m "Add Task 2 merge proof"
+git push
+[A
+[?2004l[main 0e27c5b] Add Task 2 merge proof
+ 1 file changed, 41 insertions(+)
+ create mode 100644 merge_branches
+Username for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+To https://github.com/topsweb/github-final-project.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'https://github.com/topsweb/github-final-project.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
 [?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
-ct[00m$ nano r README.md 
-[?2004l[?2004h)07[?47h[1;16r[m[4l[m[?1h=[?1h=[m[m[H[2J[14;23H[7m[ Reading... ][m[14;21H[7m[ Read 10 lines ][m[H[7m  GNU nano 6.2             README.md                      [1;57H[m[14B[7m^G[m Help[7C[7m^O[m Write Out  [7m^W[m Where Is   [7m^K[m Cut[1B[7m^X[m Exit[7C[7m^R[m Read File  [7m^\[m Replace    [7m^U[m Paste[14A[33m[1m# github-final-project[2B# This is the README.md file for the **github-final-proje[m[m[7m>[5;1H[mA calculator that calculates simple interest given princi[7m>[6;1H[mInput:[7;4Hp, principal amount[8;4Ht, time period in years[9;4Hr, annual rate of interest[1BOutput[11;4Hsimple interest = p[32m*t*[m[mr[9A[1B[1B[1B[1B[1B[1B[1B[1B[1B[1B[1;38H[7m*[18C[m[12B[2;13r[13;1H
-[1;16r[13;1H[2;13r[13;1H
-[1;16r[13;1H[1B[7mSave modified buffer?                                     [15;1H Y[m Yes[K[1B[7m N[m No  [7C  [7m^C[m Cancel[K[14;23H[J[2B[16;1H[2J[?47l8[?1l>[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
-ct[00m$ 
-[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
-ct[00m$ 
-[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
 ct[00m$ 
 [?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
 ct[00m$ 
@@ -25,17 +56,248 @@ LICENSE             merge_branches
 ct[00m$ 
 [?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
 ct[00m$ [7mcd /home/project/work/mcino-Introduction-to-Git-and-Gi[m[7mt[m[7mtHub[m
-[A[Act[00m$ cd /home/project/work/mcino-Introduction-to-Git-and-GitHub
-[A
-[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
--to-Git-and-GitHub[00m$ [7mscript -q /home/project/work/github-fi[m[7mn[m[7mnal-project/merge_branches[m
 [7mgit checkout main[m
-[7mgit merge bug-fix-typo[m
-[7mexit[m
-[A[A[A[A[A-to-Git-and-GitHub[00m$ script -q /home/project/work/github-final-project/merge_branches
+[7mtail -n 5 README.md[m
+[A[A[A[Act[00m$ cd /home/project/work/mcino-Introduction-to-Git-and-GitHub
 git checkout main
-git merge bug-fix-typo
-exit
+tail -n 5 README.md
+[A
+[?2004lAlready on 'main'
+Your branch is up to date with 'origin/main'.
+Output
+   simple interest = p*t*r
+```
+
+_© 2023 XYZ, Inc._
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mgit checkout -b bug-fix-revert[m
+[A-to-Git-and-GitHub[00m$ git checkout -b bug-fix-revert
+[A
+[?2004lSwitched to a new branch 'bug-fix-revert'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ git checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ [11Ptail -n 5 README.md
+[?2004lOutput
+   simple interest = p*t*r
+```
+
+_© 2023 XYZ, Inc._
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ tail -n 5 README.mdgit checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ [11Ptail -n 5 README.md[2Pgit checkout maintail -n 5 README.mdgit checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ [11Ptail -n 5 README.md[Kgit checkout -b bug-fix-revert
+[?2004lfatal: A branch named 'bug-fix-revert' already exists.
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ git log --oneline                   [7mcd /home/project/work/mcino-Introducti[m[7mo[m[7mon-to-Git-and-GitHub[m
+[7mgit branch[m
+[A[A[A-to-Git-and-GitHub[00m$ cd /home/project/work/mcino-Introduction-to-Git-and-GitHub
+git branch
+[A
+[?2004l[?1h=* [32mbug-fix-revert[m[m
+  bug-fix-typo[m[m
+  main[m[m
+[K[?1l>[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mgit push -u origin bug-fix-revert[m
+[A-to-Git-and-GitHub[00m$ git push -u origin bug-fix-revert
+[A
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'bug-fix-revert' on GitHub by visiting:[K
+remote:      https://github.com/topsweb/mcino-Introduction-to-Git-and-GitHub/pull/new/bug-fix-revert[K
+remote: 
+To https://github.com/topsweb/mcino-Introduction-to-Git-and-GitHub.git
+ * [new branch]      bug-fix-revert -> bug-fix-revert
+Branch 'bug-fix-revert' set up to track remote branch 'bug-fix-revert' from 'origin'.
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcurl -s https://api.github.com/repos/i[m[7mb[m[7mbm-developer-skills-network/mcino-Introduction-to-Git-and-[m[7mG[m[7mGitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_u[m[7mr[m[7mrl'[m[A[A[A-Git-and-GitHub[00m$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_url'
+[?2004lbash: syntax error near unexpected token `|'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcurl -s https://api.github.com/repos/i[m[7mb[m[7mbm-developer-skills-network/mcino-Introduction-to-Git-and-[m[7mG[m[7mGitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_u[m[7mr[m[7mrl'[m[A[A[A-Git-and-GitHub[00m$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_url'[AGitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_> | jq -r '.head.repo.clone_url[1P'[AtHub/pulls/<Pull-Request-I> | jq -r '.head.repo.clone_url'[K[AitHub/pulls/<Pull-Request-I | jq -r '.head.repo.clone_url' [K[AGitHub/pulls/<Pull-Request-[1P
+[K[AGitHub/pulls/<Pull-Request[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[4h [4l5[4h [4l3[4h [4l6[4h [4l0 | jq -r '.head.repo.clone_url'
+[?2004l
+
+^[[A^[[A^X
+^C
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ curl -s https://api.github.com/repos/ibbm-developer-skills-network/mcino-Introduction-to-Git-and-GGitHub/pulls/5360 | jq -r '.head.repo.clone_url'GitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_urrl'[A[A[A-Git-and-GitHub[00m$ [5Pgit push -u origin bug-fix-revert
+[K
+[K
+[K[A[A[A-to-Git-and-GitHub[00m$ git push -u origin bug-fix-revertbranch[Kcd /home/project/work/mcino-Introductioon-to-Git-and-GitHub[A00m$ [8Pgit checkout -b bug-fix-revert
+[K[A-to-Git-and-GitHub[00m$ git checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ [11Ptail -n 5 README.mdgit checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ [11Ptail -n 5 README.md[2Pgit checkout maincd /home/project/work/mcino-Introductioon-to-Git-and-GitHub[A00m$ git push[K
+[K[A-to-Git-and-GitHub[00m$ git pushcommit -m "Add Task 2 merge proof" [A-to-Git-and-GitHub[00m$ git [16Padd merge_branches
+[K[A-to-Git-and-GitHub[00m$ git add merge_branchescd /home/project/work/github-final-projject[AGit-and-GitHub[00m$ [3Pgithub-final-project/merge_branches
+[K[A-to-Git-and-GitHub[00m$ github-final-project/merge_branches-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-projject[AGit-and-GitHub[00m$ [16Pgit add merge_branches
+[K[A-to-Git-and-GitHub[00m$ git add merge_branchescommit -m "Add Task 2 merge proof" [A-to-Git-and-GitHub[00m$ git push[K
+[K[A-to-Git-and-GitHub[00m$ git pushcd /home/project/work/mcino-Introductioon-to-Git-and-GitHub[A00m$ [21Pgit checkout main
+[K[A-to-Git-and-GitHub[00m$ git checkout maintail -n 5 README.mdgit checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ [11Ptail -n 5 README.mdgit checkout -b bug-fix-revert-to-Git-and-GitHub[00m$ cd /home/project/work/mcino-Introductioon-to-Git-and-GitHub[A00m$ git branch[K
+[K[A-to-Git-and-GitHub[00m$ git branchpush -u origin bug-fix-revert-to-Git-and-GitHub[00m$ curl -s https://api.github.com/repos/ibbm-developer-skills-network/mcino-Introduction-to-Git-and-GGitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_urrl'[AHub/pulls/[10P5360 | jq -r '.head.repo.clone_url'
+[K[AGitHub/pulls/5360 | jq -r '.head.repo.clone_url'[A[A[K
+[K
+[K[A[A-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcurl -s https://api.github.com/repos/i[m[7mb[m[7mbm-developer-skills-network/mcino-Introduction-to-Git-and-[m[7mG[m[7mGitHub/pulls/<PR-ID> | jq -r '.head.repo.clone_url'[m
+[A[A[A-to-Git-and-GitHub[00m$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/<PR-ID> | jq -r '.head.repo.clone_url'
+[A
+[?2004lbash: syntax error near unexpected token `|'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcurl -s https://api.github.com/repos/i[m[7mb[m[7mbm-developer-skills-network/mcino-Introduction-to-Git-and-[m[7mG[m[7mGitHub/pulls/<PR-ID> | jq -r '.head.repo.clone_url'[m
+[A[A[A-to-Git-and-GitHub[00m$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/<PR-ID> | jq -r '.head.repo.clone_url'[1P[1P[1P[1P[1P[1P[1P[4h [4l5[4h [4l3[4h [4l6[4h [4l0 | jq -r '.head.repo.clone_url'
+[A
+[?2004lhttps://github.com/topsweb/mcino-Introduction-to-Git-and-GitHub.git
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ git branch -vv
+[?2004l[?1h=* [32mbug-fix-revert[m a7bfe09 [[34morigin/bug-fix-revert[m] Fix READM[m [32m[m[34m[mE footer year to 2023[m
+  bug-fix-typo  [m a7bfe09 [[34morigin/bug-fix-typo[m] Fix README [m [m[34m[mfooter year to 2023[m
+  main          [m a7bfe09 [[34morigin/main[m] Fix README footer y[m [m[34m[mear to 2023[m
+[K[?1l>[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcd /home/project/work/mcino-Introducti[m[7mo[m[7mon-to-Git-and-GitHub[m
+[A[A-to-Git-and-GitHub[00m$ cd /home/project/work/mcino-Introduction-to-Git-and-GitHub
 [A
 [?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
--to-Git-and-G
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ 
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mgit branch -vv[m
+[A-to-Git-and-GitHub[00m$ git branch -vv
+[A
+[?2004l[?1h=* [32mbug-fix-revert[m a7bfe09 [[34morigin/bug-fix-revert[m] Fix READM[m [32m[m[34m[mE footer year to 2023[m
+  bug-fix-typo  [m a7bfe09 [[34morigin/bug-fix-typo[m] Fix README [m [m[34m[mfooter year to 2023[m
+  main          [m a7bfe09 [[34morigin/main[m] Fix README footer y[m [m[34m[mear to 2023[m
+[K[?1l>[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7m{[m
+[7m  echo "git branch -vv"[m
+[7m  git branch -vv[m
+[7m} > /home/project/work/github-final-project/github-branche[m[7ms[m[7ms[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ {
+  echo "git branch -vv"
+  git branch -vv
+} > /home/project/work/github-final-project/github-branches
+[A
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcd /home/project/work/github-final-pro[m[7mj[m[7mject[m
+[7mgit add github-branches[m
+[7mgit commit -m "Add Task 4 branch status output"[m
+[7mgit push[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-project
+git add github-branches
+git commit -m "Add Task 4 branch status output"
+git push
+[A
+[?2004l[main b69aab2] Add Task 4 branch status output
+ 1 file changed, 4 insertions(+)
+ create mode 100644 github-branches
+Username for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/topsweb/github-final-project.git/'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ git push
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+To https://github.com/topsweb/github-final-project.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'https://github.com/topsweb/github-final-project.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ git push
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/topsweb/github-final-project.git/'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ [K[A]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ [7mcd /home/project/work/github-final-project[m
+[7mgit pull --rebase origin main[m
+[A[Act[00m$ cd /home/project/work/github-final-project
+git pull --rebase origin main
+[A
+[?2004lerror: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-pr
+oject[00m$ [7mgit push origin main[m
+[Aoject[00m$ git push origin main
+[A
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+To https://github.com/topsweb/github-final-project.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some ia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7m{[m
+[7m  echo "git branch -vv"[m
+[7m  git branch -vv[m
+[7m} > /home/project/work/github-final-project/github-branche[m[7ms[m[7ms[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ {
+  echo "git branch -vv"
+  git branch -vv
+} > /home/project/work/github-final-project/github-branches
+[A
+[?2004l[?2004h]0;theia@theia-mdonahoe: /home/project/work/mcino-Introduction-to-Git-and-GitHub[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/mcino-Introduction
+-to-Git-and-GitHub[00m$ [7mcd /home/project/work/github-final-pro[m[7mj[m[7mject[m
+[7mgit add github-branches[m
+[7mgit commit -m "Add Task 4 branch status output"[m
+[7mgit push[m
+[A[A[A[A[A-to-Git-and-GitHub[00m$ cd /home/project/work/github-final-project
+git add github-branches
+git commit -m "Add Task 4 branch status output"
+git push
+[A
+[?2004l[main b69aab2] Add Task 4 branch status output
+ 1 file changed, 4 insertions(+)
+ create mode 100644 github-branches
+Username for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/topsweb/github-final-project.git/'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ git push
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+To https://github.com/topsweb/github-final-project.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'https://github.com/topsweb/github-final-project.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ git push
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/topsweb/github-final-project.git/'
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ [K[A]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-proje
+ct[00m$ [7mcd /home/project/work/github-final-project[m
+[7mgit pull --rebase origin main[m
+[A[Act[00m$ cd /home/project/work/github-final-project
+git pull --rebase origin main
+[A
+[?2004lerror: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[?2004h]0;theia@theia-mdonahoe: /home/project/work/github-final-project[01;32mtheia@theia-mdonahoe[00m:[01;34m/home/project/work/github-final-pr
+oject[00m$ [7mgit push origin main[m
+[Aoject[00m$ git push origin main
+[A
+[?2004lUsername for 'https://github.com': topsweb
+Password for 'https://topsweb@github.com': 
+To https://github.com/topsweb/github-final-project.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'https://github.com/topsweb/github-final-project.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integra
